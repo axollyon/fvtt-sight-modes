@@ -1,0 +1,10 @@
+{
+    "sight-modes": {
+        "sightMode": "Sight Mode",
+        "hint": "Sets what type of walls block this token's vision.",
+        "movement": "Movement",
+        "light": "Light",
+        "sight": "Sight",
+        "sound": "Sound"
+    }
+}
